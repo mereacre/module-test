@@ -1,0 +1,3 @@
+[submodule "ucontrol-update"]
+	path = ucontrol-update
+	url = git@github.com:mereacre/ucontrol-update.git
